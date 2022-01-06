@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  site:
+    image: brugr/website:latest-alpine
+    container_name: website
+    ports:
+      - '80:80'
+    restart: unless-stopped
+    labels:
+      - com.centurylinklabs.watchtower.enable="false"
