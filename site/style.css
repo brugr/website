@@ -4,7 +4,7 @@
 :root {
     --bgColor: #0a0a0a;
     --textColor: #e2e2e2;
-    --accentColor: #7700ff;
+    --accentColor: #2a85ec;
     
     --font: 'Space Mono', monospace;
     --accentFont: 'Space Mono', var(--font);
