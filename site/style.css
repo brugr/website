@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
 @import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
 
 :root {
@@ -6,8 +6,8 @@
     --textColor: #e2e2e2;
     --accentColor: #2a85ec;
     
-    --font: 'Space Mono', monospace;
-    --accentFont: 'Space Mono', var(--font);
+    --font: 'Bitter', monospace;
+    --accentFont: 'Bitter', var(--font);
 }
 
 html {
@@ -33,6 +33,7 @@ h1 {
     font-family: var(--accentFont);
     font-size: 4rem;
     font-weight: 700;
+    letter-spacing: 0.25rem;
 
     margin: 0;
     line-height: 100%;
@@ -51,7 +52,7 @@ a, p {
 br {
     display: block;
     content: "";
-    margin-top: .2rem;
+    margin-top: .7rem;
 }
 
 .space {
