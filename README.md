@@ -1,4 +1,4 @@
-<h1 align=center>website.</h1>
+# website
 
-<p align="center">A simple, Linktree-esque site, deployed using an NGINX Docker container.</p>
+A simple, Linktree-esque site, deployed using an NGINX Docker container.
 <img src="https://i.imgur.com/S7dohCw.gif" align="center" height="700px">
