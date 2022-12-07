@@ -1,3 +1,5 @@
+## Archived, current repo is [brugr/website](https://github.com/brugr/website)
+
 # website
 
 A simple, Linktree-esque site, deployed using an NGINX Docker container.
