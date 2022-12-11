@@ -53,7 +53,7 @@
             { "name": "email", "url": "mailto:me@brugr.com" }
         ],
         
-        "avatarURL": "/images/avatar.jpg",
+        "avatarURL": "/images/avatar.webp",
         "avatarSize": "size-s",
         "accentColor": "#2a85ec",
         "metaKeywords": [ "brugr" ],
