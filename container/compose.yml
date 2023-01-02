@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  update:
+    image: website-update
+    build:
+      context: .
+      dockerfile: Containerfile
+    container_name: website-update
+    volumes:
+      - ../:/site
+  
+  website:
+    image: docker.io/joseluisq/static-web-server:latest
+    container_name: website-server
+    restart: unless-stopped
+    volumes:
+      - ../src/public:/public:ro
+    ports:
+      - 1337:80
