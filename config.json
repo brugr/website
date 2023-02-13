@@ -40,7 +40,7 @@
     },
 
     "params": {
-        "customHeadHTML": "<script defer data-domain=\"brugr.com\" src=\"https://analytics.brugr.com/js/script.js\"></script> \n <link href=\"https://layer8.space/@brugr\" rel=\"me\"/>",
+        "customHeadHTML": "<link href=\"https://layer8.space/@brugr\" rel=\"me\"/>",
 
         "socialIcons": [
             { "name": "mastodon", "url": "https://layer8.space/@brugr" },

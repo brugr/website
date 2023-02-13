@@ -1,8 +1,0 @@
-FROM alpine:latest
-
-RUN apk add hugo git bash
-
-COPY run.sh /run.sh
-ENV SLEEP_TIME=1h
-WORKDIR /site
-CMD ["bash", "-c", "/run.sh"]
