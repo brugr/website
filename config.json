@@ -46,9 +46,7 @@
             { "name": "mastodon", "url": "https://layer8.space/@brugr" },
             { "name": "discord", "url": "/discord" },
             { "name": "instagram", "url": "https://www.instagram.com/brugrinsta" },
-            { "name": "reddit", "url": "https://www.reddit.com/u/brugrreddit" },
             { "name": "github", "url": "https://github.com/brugr" },
-            { "name": "keybase", "url": "https://keybase.io/brugr" },
             { "name": "steam", "url": "https://steamcommunity.com/id/brugr" },
             { "name": "email", "url": "mailto:me@brugr.com" }
         ],
