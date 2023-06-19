@@ -44,6 +44,7 @@
 
         "socialIcons": [
             { "name": "mastodon", "url": "https://layer8.space/@brugr" },
+            { "name": "lemmy", "url": "https://lemmy.blahaj.zone/u/brugr" },
             { "name": "discord", "url": "/discord" },
             { "name": "instagram", "url": "https://www.instagram.com/brugrinsta" },
             { "name": "github", "url": "https://github.com/brugr" },
