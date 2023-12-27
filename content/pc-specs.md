@@ -15,27 +15,27 @@ type: page
 
 ### Specifications
 
-CPU: AMD Ryzen 3800x  
-GPU: ASUS STRIX Geforce RTX 2080 Super (White)  
-RAM: 4x8GB Corsair Vengeance RGB PRO 3600MHz/CL18  
-AIO Cooler: ASUS ROG RYUIJIN 360mm  
-Motherboard: ASUS PRIME X570-PRO  
-Case: Fractal North White/Mesh
-NVMe SSD: Corsair Force MP600 1TB  
-NVMe SSD 2: Samsung 960 EVO 250GB  
+CPU: AMD Ryzen 7800X3D  
+GPU: EVGA RTX 3090 FTW3 Ultra Hybrid  
+RAM: 2x16GB Corsair Vengeance RGB AMD 6000MHz/CL30  
+AIO Cooler: Artic Liquid Freezer II 360 A-RGB  
+Motherboard: ASRock B650 PG Lightning  
+Case: Fractal North White/Mesh  
+Boot SSD: Corsair Force MP600 1TB  
+Second SSD: Kingston Fury Renegade 2TB  
 Capture Card: Elgato HD60 Pro  
-PSU: Corsair RM850x V2  
-OS: Windows 11 Education 22H2
+PSU: Seasonic Prime GX 1300W  
+OS: Windows 11 Education 23H2
 
 ### Accessories
 
 Mouse: Xtrfy MZ1  
 Keyboard: Keychron K8  
 Macropad: Elgato Stream Deck  
-Earbuds: Apple Earpods  
-Bluetooth Earbuds: Apple Airpods Pro (gen 2)  
-Monitor: ASUS ROG PG279Q  
-Second Monitor: AOC e2752Vq  
+Headphones: Sennheiser HD 560s  
+Headphone DAC: FiiO BTR5-2021  
+Monitor: Alienware AW3423DWF  
+Second Monitor: MSI Optix AG32CQ  
 Webcam: Logitech C310  
 Deskpad: Mionix Alioth XXL
 
@@ -49,7 +49,7 @@ GPU: Intel HD 520
 RAM: 8GB  
 SSD: Crucial MX300 525GB  
 WiFi Card: Qualcomm Atheros QCA6174  
-OS: Fedora Silverblue 38
+OS: Fedora Silverblue 39
 
 ### Accessories
 
@@ -60,4 +60,4 @@ Bluetooth Earbuds: Apple Airpods Pro (gen 2)
 ## VR Gear
 
 Main Headset: Valve Index Full Kit  
-Full Body Tracking: 3x HTC Vive Trackers 3.0 with EOZ straps  
+Full Body Tracking: 3x HTC Vive Trackers 3.0 with EOZ straps
