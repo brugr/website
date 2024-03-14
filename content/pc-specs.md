@@ -17,19 +17,20 @@ type: page
 
 CPU: AMD Ryzen 7800X3D  
 GPU: EVGA RTX 3090 FTW3 Ultra Hybrid  
+Second GPU: ASRock Arc A380 Challenger  
 RAM: 2x16GB Corsair Vengeance RGB AMD 6000MHz/CL30  
 AIO Cooler: Artic Liquid Freezer II 360 A-RGB  
-Motherboard: ASRock B650 PG Lightning  
+Motherboard: ASUS STRIX B650E-F WiFi  
 Case: Fractal North White/Mesh  
-Boot SSD: Corsair Force MP600 1TB  
+Boot SSD: Toshiba OCZ TR150  
 Second SSD: Kingston Fury Renegade 2TB  
-Capture Card: Elgato HD60 Pro  
+Windows SSD: Corsair Force MP600 1TB  
 PSU: Seasonic Prime GX 1300W  
-OS: Windows 11 Education 23H2
+OS: Fedora Silverblue (Bazzite) and Windows 11
 
 ### Accessories
 
-Mouse: Xtrfy MZ1  
+Mouse: Pulsar X2V2 Mini  
 Keyboard: Keychron K8  
 Macropad: Elgato Stream Deck  
 Headphones: Sennheiser HD 560s  
@@ -49,7 +50,7 @@ GPU: Intel HD 520
 RAM: 8GB  
 SSD: Crucial MX300 525GB  
 WiFi Card: Qualcomm Atheros QCA6174  
-OS: Fedora Silverblue 39
+OS: Fedora Silverblue
 
 ### Accessories
 
