@@ -26,7 +26,7 @@ Boot SSD: Toshiba OCZ TR150
 Second SSD: Kingston Fury Renegade 2TB  
 Windows SSD: Corsair Force MP600 1TB  
 PSU: Seasonic Prime GX 1300W  
-OS: Fedora Silverblue (Bazzite) and Windows 11
+OS: NixOS unstable and Windows 11
 
 ### Accessories
 
@@ -50,7 +50,7 @@ GPU: Intel HD 520
 RAM: 8GB  
 SSD: Crucial MX300 525GB  
 WiFi Card: Qualcomm Atheros QCA6174  
-OS: Fedora Silverblue
+OS: NixOS unstable
 
 ### Accessories
 
