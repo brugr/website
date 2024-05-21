@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
-@import url('https://use.fontawesome.com/releases/v6.2.0/css/all.css');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://use.fontawesome.com/releases/v6.5.2/css/all.css');
 
 :root {
     --bgColor: #0a0a0a;
     --textColor: #e2e2e2;
     --accentColor: #2a85ec;
     
-    --font: 'Bitter', monospace;
-    --accentFont: 'Bitter', var(--font);
+    --font: 'Fira Sans', monospace;
+    --accentFont: 'Fira Sans', var(--font);
 }
 
 html {
@@ -33,7 +33,6 @@ h1 {
     font-family: var(--accentFont);
     font-size: 4rem;
     font-weight: 700;
-    letter-spacing: 0.25rem;
 
     margin: 0;
     line-height: 100%;

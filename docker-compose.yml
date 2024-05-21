@@ -1,9 +1,0 @@
-version: "3.7"
-services:
-  site:
-    image: nginx:alpine
-    container_name: website
-    ports:
-      - '80:80'
-    volumes:
-      - ./site:/usr/share/nginx/html
