@@ -23,7 +23,7 @@ body {
     margin: 0;
 }
 
-h1, a, i, p {
+h1, h2, a, i, p {
     color: var(--textColor);
     font-family: var(--font);
     text-decoration: none;
@@ -33,9 +33,12 @@ h1 {
     font-family: var(--accentFont);
     font-size: 4rem;
     font-weight: 700;
+    margin-bottom: -.7rem;
+}
 
-    margin: 0;
-    line-height: 100%;
+h2 {
+    font-family: var(--accentFont);
+    font-size: 1.5rem;
 }
 
 a, p {
@@ -62,8 +65,8 @@ br {
 
 .header{
     display: flex;
-    flex-direction: row;
-    margin: 0 0 2rem 0;
+    flex-direction: column;
+    margin: 0 0 1.25rem 0;
 }
 
 .header img {
