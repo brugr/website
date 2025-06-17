@@ -27,59 +27,45 @@ h1, h2, a, i, p {
     color: var(--textColor);
     font-family: var(--font);
     text-decoration: none;
+    margin: 0;
 }
 
 h1 {
     font-family: var(--accentFont);
     font-size: 4rem;
     font-weight: 700;
-    margin-bottom: -.7rem;
+    margin: 0 0 2rem;
 }
 
-h2 {
-    font-family: var(--accentFont);
+a.link {
     font-size: 1.5rem;
-}
-
-a, p {
-    font-size: 1.5rem; 
-    word-spacing: 0rem;
     font-weight: 400;
+    color: var(--textColor);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
-.link:hover {
-    color: var(--accentColor)
+a.link:hover {
+    color: var(--accentColor);
 }
 
-br {
-    display: block;
-    content: "";
-    margin-top: .7rem;
-}
-
-.space {
-    display: block;
-    content: "";
-    margin-top: 2rem;
-}
-
-.header{
+.header {
     display: flex;
     flex-direction: column;
-    margin: 0 0 1.25rem 0;
-}
-
-.header img {
-    justify-content: flex-end;
-    align-self: flex-end;
-
-    width: 2.5rem;
-    height: 2.5rem;
-
-    margin: 0 0 0 .25rem;
+    align-items: flex-start;
 }
 
 .links {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+.links > div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
 }
